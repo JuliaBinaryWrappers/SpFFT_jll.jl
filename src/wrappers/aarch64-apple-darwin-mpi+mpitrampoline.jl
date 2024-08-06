@@ -11,7 +11,7 @@ function __init__()
     JLLWrappers.@generate_init_header(FFTW_jll, CompilerSupportLibraries_jll, LLVMOpenMP_jll, MPItrampoline_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libspfft,
-        "lib/libspfft.1.0.6.dylib",
+        "lib/libspfft.1.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

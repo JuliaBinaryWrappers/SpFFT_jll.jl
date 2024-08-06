@@ -1,6 +1,6 @@
 name = "SpFFT_jll"
 uuid = "8be71ea8-ca6b-526f-84e8-fb2862ef466b"
-version = "1.0.6+0"
+version = "1.1.0+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"

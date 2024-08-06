@@ -1,726 +1,726 @@
 [[SpFFT]]
 arch = "aarch64"
-git-tree-sha1 = "c1fa360cbade016dea57a49c106ae9a34809f73b"
+git-tree-sha1 = "56efeffadb670d9c6d07fe245b3d84a06a0e18e6"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[SpFFT.download]]
-    sha256 = "67556a7b45b038aedee6decf5a806fc5baf235584531b14ba98b749989f7dc7f"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "bccb13bfd472e555b418065d0ab7463e0af903287e170b11e423ba64717654c9"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
-git-tree-sha1 = "eda02db13a30ecd529e912ad2c9468074406e3bf"
+git-tree-sha1 = "351b712a2e567cd98d1584a21ffdc73cadaeea2e"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[SpFFT.download]]
-    sha256 = "808f5c91738a030fdf0611292ff8ee0bfef3e40da3e07b4a9474d7cded2fc8d3"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "0c147f68e9a93f509100913a9437557e9a65f181d2be5fa7488cde8b94b10886"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
-git-tree-sha1 = "cc5855087eb529a40b09d2ef092d9b17d58dd8ef"
+git-tree-sha1 = "f8386750a29b388bbfaa7b04d7e78f5a68d083e8"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[SpFFT.download]]
-    sha256 = "872069667f8fc7045c02c9547d24b2b245139d0876ec7523ae4031da2aeffb76"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "83540b53b6801c85e6a1c45e5fc0731356fdc2a1ff2dec65386d27f5c1c0c70f"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bc5e724baaafa0a892b80758646fea4abfdefd1a"
+git-tree-sha1 = "8eed0cea60839789753e1297b1ff135a157c03ba"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "b6db660759a69b52f46e98822249a902a6af6cf26d1aad14b5c06b875069f16a"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "990d261135981637b2b69a8c7d407a727aa015774b2c7e85f74666cbdcded0cc"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3933411c59cf2574cc58ba085e7d9a70a43893dd"
+git-tree-sha1 = "f15c1dfaafcec5310d447e5a0f2712c5bc281a9e"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "5bb2cd80279577b6f2d5e92c216d44f6235a1db39090fc4d935783c43516e81d"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "016b201d1733359cd3c032b71afa64059a3877a5b217ba696bf8eb66d69dba4e"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0ed547a557160bb28ff3d1acaeb4d6778c5b9998"
+git-tree-sha1 = "9642e9032537b1aa3a9ab5aed5f18860106a4584"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "43271adf550252dcf9ce0095ae3cd702c5873c4571bcf7e36b566c705779f1e4"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "5fef6d2ddea6ad7c53a16c62261a6b23657bfa12b7b2483405f14f52778ae732"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "592f71869caffa3bafec84ff5b312c45153e9394"
+git-tree-sha1 = "5bb59a9bbd23ee1217932a527b17c6742b4eaa45"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "e81769eed1d64a119faec71f5500db49994c9dffe4db8133501fb23e4ef32861"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "97bb823b812dc8859ba112b6c235c36e5714fd3da9cab30058cbb82b01beb52b"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "348fc71354794c93e4115f0da73999364500f443"
+git-tree-sha1 = "85b6dbdf5df43c31fa5dedfeedb0f3fe3c873de2"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "5694333bfd62d93d157e7ac08202f58732cdc2cbd00fca823fb047a68623d081"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "9bf6db91e9c9dafb3d531dbfe0cc5e4a7875ab45f1a3c62fe766071695ed39bd"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3ae1c2613480988ffe397479c31fe8a482667391"
+git-tree-sha1 = "0c3d4632964227c612e83711b4de377d4d5d989c"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "9bad519cffcd912a66f98e4c27d38b934b0bb2ede8f23c8afbf5b09329a1aa2a"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "01c84b514f21e640aa0ef2d15495fc15a52227b00407d627f83e381011099f27"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a7979caa20a15b4c444484c6d97fe2cb85866257"
+git-tree-sha1 = "c9defc36a59c095e30fddfbdc0e505fbc728dd2e"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "ce7572f0653ebe5cf0c33441bf90493bd5d38e1750ea57c1e9351c294b0175b4"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "fac0d006fed5e296c3342967d6dc0fef3663af48f0a0fe24949c9699d3b2abe2"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5c54b6091b6e172c27e097ee460b89d08a888f94"
+git-tree-sha1 = "854d760a584ab88d96162231e14997e391b7d80b"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "38c72b4433c27b9261d96b8fb01971453a4d749547751fcf2ce7e8ae28a5415c"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "27b90547ba7530377da61e989fb1bc1eeb0d3c90839355b0ac6f5a116a8a8c4a"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cea5e42fbfd976f5a5c13f7fe17df370c26dcad3"
+git-tree-sha1 = "bb676929a83c7219ae26ab547d40ca09b91b3f23"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "1b03624f347b3cad8f0d5c322983742c11d8966b932940b8e6713f7242566afb"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "08a76dd12a49a5b18d975eea27ce1e52e9eed479b8a7a0c7d5187326f62af253"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e2604caf96d03698b97000b230ad45e775e597d6"
+git-tree-sha1 = "aeb3758088c1f67eb9aba143022a4fe32454f8bc"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "c323e616ea356624e402c03deb4698c8796ee079caab4b3464846d8d41658ca0"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "23510be485801dc23828d34544f78fe952f9527b7e6bfb0f27d7fafadf968376"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c474d8307ba54403b1600a961800248c5376708c"
+git-tree-sha1 = "dadb8c7e2ab95af3f1f6c8f770962db017a89dbb"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "e0e0422879f0bc62f15c57d5b0045aaf0dc6006ab62763059b3757c1af1648d1"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "5e4e91f9b3645910d868adc2c58777f8a4327759629db5977e80dd937ed9154d"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e4d5039521877aa926c5b26cf4da144727568430"
+git-tree-sha1 = "ed8082dd72cf7afa098e6f128fcaa85673c15614"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "0ca85a71a891c70911e893d2c9c3e6a0daa913802b862426ed046ba8f3ad0d30"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "b31dfefc218b4fa4493c939cb1d4410a307ce42f560cfc7d51c4ab65ddfcc8f0"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d792db7e12a30fc901a9796700e8ea8065ab8bb3"
+git-tree-sha1 = "ea6859da1d2fb33adf859bb223e9f4c95fc5fda2"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "7345b9168f4dee7368a899260dba7f2f78c271a2475a36e048bbcc153fd10406"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "24c591e1bab843b1483522c24383c3b7ad06d9f086462f31c9962960947a71ed"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dcc29b357415882db55a178019320b7e08c7005a"
+git-tree-sha1 = "7d3882344916eb8373cd8b50d29ad20eb6b18b47"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "5c4a406a2368892c2d3edca61c1b7900edbaf7207325cfbb8fc829e1edbd3115"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "2dff8ddc7b424280dec6da931916769ffe427b25fd050123b9b3205c19de6c32"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a95b0f8e169cb329203b17f8f324f4a49d0353fd"
+git-tree-sha1 = "60cc1580dd7d915dcfd3e2f3696b0e2abd3c98d6"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "314cebc05c64dedaf965b70197c24714451fce91dfae3dc3ee8e9b46b9f63254"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "10c7d2615437c823e28610c4e70101b88301525bade5cccd2072fd763f5c500e"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2f43a0e9a5014da3e5df3aece71f039d92864c0c"
+git-tree-sha1 = "319a2ced7a686a081825046f87ac72d579a114f3"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "ca7a39cfecfb306b4ed7a48287b07c7bfe17c32e8f2de9336d4ac1341c28b81e"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "9652fc9d79f774a3991e6b38a62a39c1d1fc4bd4df6d229a5978b5543e85e4ed"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "54418266e0f7001d25cc9e972bd652df7d127b6f"
+git-tree-sha1 = "3c216ab3112398f63df26296fff51f049c206546"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "8eef543280572d55dffe7ba2b31a3f56d13ae0995044623cd9c7b6b59bea7d5a"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "289059cd57d1ba56cc6ab7bc23c0af2ce6c002d3c9b6724362814e0bcc413e80"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ade4fdd58685e3b1a1dedcef9af72578108f7db"
+git-tree-sha1 = "5114d014f6dce895fed9d9e6e2ba2cd36e72e8b8"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "7442ee076afd589c95c18d94c7fdcc08ef53396c7775e86c74edac4403f10e1f"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "21f8b6f3e21d5f4b9fd4ceea3969001a5511221c25161d2e7427dc7de538bd88"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ad1a6aa0beb2a06f64f498834b5ddeb647aa06bd"
+git-tree-sha1 = "d52fc11fb21395d58bc42d6cb82118fab0e82ce3"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "fd006ebc64fe01d0a1d10ab31b643c93277290d2669f7e98eefb701683b166d7"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "24fe94156b9b40a17a6426a14517773df541f9c46e7eaf3ead9d9a4e32a16696"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c31ca8c4fe29640f7922ef2b61ca7159f1e48ac7"
+git-tree-sha1 = "2d6520d49130c512111d289f865aba20e21300a6"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "bfd8fa073c1410a3b778389f0c71ceadd07b38190419d1afc1a0cd7f5892bd27"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "0f3fd093d8b6d32cf20e8dbe213ae675b4a8beb8e95d241297a9a54314855908"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b816f1674308c3e0f8ef532ddc596711a25e91ce"
+git-tree-sha1 = "d70fef940fa64151332d34cebb3e1719d89ca470"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "22157175484706f0237a2a92bf1e2eeae895cd4594cf57e835ab252f8090eedb"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "1e64251befb759042c39032d6eef2c793a97ab51fe6184bde5b225ccf47c199d"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc3e6b48d6c0fe4ff853c1cdc20a270ba5a7a382"
+git-tree-sha1 = "8668ad73e350a224583f3589ba8bd2bbf1589892"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "b32cd35a6de48df8f734920dc39a9c94cff6d8ca73864bf0e0d360c562a413a0"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "dbdaef6a613f8565b6f2fddb6a82c967186f2b519db221167d44c69b5cb93b29"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c67e389ed1f491560d46e028d64c0974b20dd94f"
+git-tree-sha1 = "80b131c5d06bdeb15b9a602ed4238c0ddb909db6"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "d3c801cd296fd092dcd1ca75843cfd7148b318e8a7ac8407f053e1527e3f87bb"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "1625f9a1228ef4c373ae060c40e12bb2ed61ba01538b76cc7c61548dd3d7de1e"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "14da7094c5316f340e2765896bf4929799eabe8e"
+git-tree-sha1 = "abce395a0fd3039bbeb45cffefe5a0f43448c3b5"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "bcc6fceed04c0e64b6c0de4360c2302d1b276e9fdc1845ac30356c94b6e39c59"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "efe750877873c33b33fb478e66143419900626b0813d822f1b5655c771845248"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "22431259b705b444811d0b6ae5974385261b1e1e"
+git-tree-sha1 = "aa63f8cd49dda48720c803248bd7746dc2f0d613"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "8634758df0f3b41af3b344641ffb4b0b50efb8f013a4829649ad7d81e60a7d77"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "4308a7837300c5da3f05569a7e1c8d36bf3792716243650a7f82ffbf213a6905"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5e7bca6b422f403f2f7b64db2cd15425ba6880c0"
+git-tree-sha1 = "32e71aa2fbb8dc8954c461f009df577621855231"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "4bfedf51c6108056c86bb063a65ea953f29dfece057914d6b0c08bada6acc1f5"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "21b3768487f302638b456a137809d4fb5abfe658ebe76072ce9d61ac2be688c9"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a3b29e5d372b9d0e67e465bcc7c1f74ece5420d"
+git-tree-sha1 = "5446b051a467d406e27320a34952e967a87ada9f"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "b2348bb9b3256a2498241d67dfe06808f79fd08026d8c6e98991807d246384f9"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "80b9164c8a9877b91c238f1d692477f8f0943fc741fb86c71642a8379e982f1c"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2bacf67c6abfde8bcab7a9f4d0d1fcf8272692d4"
+git-tree-sha1 = "56dcd992ed7cdc7e10cb6accde58e2a297b7ab67"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "bac7e4abd6d6cedd5f95a1a89291a1e1b6ab8d9d8d640242f2a521b073a34453"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "dc8778d244ae0e9f11a4d9099ac01a7c3a850b1767fba4bc9e5e295fb143d455"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee43d05bbc0eb0962044c5c22c76ca3b828ad6a6"
+git-tree-sha1 = "190d81f48f80ab6d1d5ff39b81ef810e5293902e"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "2e1af6c9c53c63125c75279990190216735a11b7a7ca56d20352ceb46ddce0f0"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "71fa194df420ba91148c000fc998d19fb2b57c4550210437ee42a439703157da"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1ffee0f8cc14d7dae7eaad67b0c5afa5c1d4faf6"
+git-tree-sha1 = "d0512ab2beb492c4f02e29418abdf1bbb003cae3"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "6f9bca277b2c578a9bd172226f309fa9850f1d45ce571d4ab1b6b3df54c26b6b"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "030908eab52f1f4c033037332d0d691810344689b6c5ce7689220898cc2f257c"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d37f80afce393dcf7e3d79ab51e24963699d687"
+git-tree-sha1 = "9dc848c9368ccd5bce4c91e460914a0476c03d49"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "c875aea1b71af54132fdb97af77aa148470d247316ddfc7bff7306ede90ecbb6"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "7e324d640af5f5c3b358dac0209faa56e4e72ac11df7877afcf1fa55f45e604b"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3635033d8de973b819793635e3965f877a59de2c"
+git-tree-sha1 = "8b3687e7149e2b76628be02f44f56a668769680d"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "c3294593e96840c2a283f9af012b34e9f947cf85fd333a1b9de7813a01619768"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "e23e8698bb92ff8d844db6f43f2baeee9f51952d937676fccc565f468c2dfd17"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "64511faab44f13653f49d1d72825eae4c39e8425"
+git-tree-sha1 = "2db785e3c79c7e6543019562ab57103e3181be4e"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "faf08ffafa7280ca6ca2fd56970793c43be2b894e87b9ee8ab985dbae291353e"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "c3d4d10f04416a4c36cbf10fd759e39a2ca13ba3eb23608a919bd438075273d4"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e0530b1f8794d7a6f3bdc0fddd2ca399acb99a27"
+git-tree-sha1 = "a5c46f58d12051d1423312505805b7cec486acee"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "6764e32a58ca97ff92e0293519b14eb3dfbc302b5efe784b3f8f6364e2108ee4"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "0dd93187fb1ace2585956582b159a499673d7cd801ea560536d0a0d3355ae3a7"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8f3960b17c429da53c1a8f6803ea1be599725bd4"
+git-tree-sha1 = "bc1c100c65f67744ac7a33d4ec9e6b9058fcd04f"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "7e0822b11e88b5432b9028c22fff36693142d9a142a72a5c2298a31e2ca26253"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "ffd755cb3d68a8cfc7ff83337e3a78ebd2dfad1e8676e91e123cfc2ed87068d8"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "96d337b0dcae4d2349a594f4480c1c1411d11a44"
+git-tree-sha1 = "f50268198b15e8c6716a239935f5ea283ec701fc"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "0b6c1b69ca4bac01c5df1d1a69f57009321d14b046aea719b2f7f30ebce238c8"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "95187390ca47c63ba96f7d9c08c08b9968d263c8373f6ae29cf8d20cc0fdb91e"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "718f50b94890b8d19a14ee260c973d6523ea036d"
+git-tree-sha1 = "60eeb81d7e535ff2c9725987f3ff9ebb360a2cbf"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "d3ca8baa73dfbbf4701de8c9378e0d033313f119dade7044ab3cec7db1f4100f"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "8c0064d8b21a2f773378036788f714867f0f4c793d6445c1776a3f1ab9041503"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "63f5c9b62f7b2e58c637f23fb06e658601a00ba2"
+git-tree-sha1 = "02b808a697a059acd7520fe9d8d56d7871dcd199"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "1451b3caacacc58f80889973a2ac241b78b4fb23414790cb443518efd5a28e10"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "083790e55101b7b3233980549e27a8586932a7a5f398d41708e6769b7aefac92"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4c9d05aaca900c2e314646707680972d32e3ac7a"
+git-tree-sha1 = "a788b42de0f6d867bd622edb2e0a0d73272e5baa"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "1e859823bb0b103d6604ab6048ccc20f13b8c76e87fdd6f0dac9f74a1beac4e9"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "1111f681c65c4b3b7ab0405d5b2c54d63bcc11b101e42f478f15adddff166207"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ab4dc75cc966034a3d039984b329a37123fca713"
+git-tree-sha1 = "bffa105cfd2f3aba04d1534eb08a2ccb1bf3bdb9"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "02669012fae853648a9e570121a5a82ed9558b7ff1cad0095bf88b0f84e91785"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "8a583503a9a05c1aa44a89e3110da81da5266f1f7fb89460874e7de17e17b781"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c8987d716e3355783f7ca0bdf11fd9ca9133163a"
+git-tree-sha1 = "ad2b9f4f8b52267913c84fd73fcd600dc5704f50"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "79a5fbecb617d74a137c427feeba3d15e67916228b5b4d27b4cd60c3e0c3ff03"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "2f3cdedfca2c8181fcf8e398756aa62da5539440f7087b99f9f408799ddfb9be"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d0f2d3c094ba56da439afe1b86138abe9fbb7df5"
+git-tree-sha1 = "8484d7a46eb74a864b74a9aaa051a765b9c765ab"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "e2e5764706d56226ccfd49e7ef64984b8e0e93b560d44a6183e3fc10c0bbf364"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "c4a54ca4c0e479df063674d01c788fdc0aeac776a8d7e4f8452260ba22bc872b"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a8bb3af642ba807865ee0d54db11a45b802dd92"
+git-tree-sha1 = "2566eaafc54339ce438ff97c96e1afbe14b0bef4"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "3ddd87fe4f5fa37c4c763f013a0fbffbc589ac86f03600ca517b1940e37fd764"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "40717ab39f42053e02aa2648b271e73b78454b3b48af393989f7ffe8f5e353a5"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ff0eaecfe56d01c7c680bf31d8bcd2c9084d92f"
+git-tree-sha1 = "9aec4e4ae6bc1eb798012ea73e6557792e3e28a5"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "ba8161568111e691f0ef1d7c5f73568e165d9f674156ca68d383d30edbc96b33"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "e4a1fbd528e9ff641cbecaeaad510df4c6c2a5f1294e5b177f3fcdf93c03caf1"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
-git-tree-sha1 = "92109be2a5ce42b8babef2b4667efcca637e3022"
+git-tree-sha1 = "af9a217a52914dc9ae0402e6e4366a8d3303a8c8"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[SpFFT.download]]
-    sha256 = "c876b57d2d93fbce79f851814e8aaeef6106916cec983f9308596db64d232579"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "2c9284c97555e1c2a623142005b1227e00548569cd5fa77c50554962e0c99274"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
-git-tree-sha1 = "8282b956517eb66d93e5c054d3fce9f5686b2e99"
+git-tree-sha1 = "5236330a1cda58f4490d1a361ddb4b9fd5e15f53"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[SpFFT.download]]
-    sha256 = "f4256f39580ec5c5f9aba1e6ca05abd695e5a90a6e03a61fe10a6a7defe9e057"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "38d4416fe30934753b99120021fe0905332935da70d4361a225e4420950097c9"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
-git-tree-sha1 = "f612daf47af2734a5f4b66b968492eb5431d8317"
+git-tree-sha1 = "16c2ab0d6e201dc2fa718c96d6e30251c236d44e"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[SpFFT.download]]
-    sha256 = "daf00295e194a915a3f17bd058be5f036712e43a580396549e7789add6d0e29b"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "e1dd26bc7592df48e01907f2254991bc5791c53d701a50d9bf90f2ffa7e273d4"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8c07c11ca357c8a86eaffa1be68191969e633cb2"
+git-tree-sha1 = "ed462c967554802397d73318ced064f43a4c28d6"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "604da4092aa8185313fcd2c008c6a665fdede1a66c07091f4b26ee155df68de3"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "74ef66dc226a1399a9fff83b702424d7f3cf875c41959b14f83f83baee6865fb"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8204919de883302ecac697c83767ee364fbf3874"
+git-tree-sha1 = "6934d28fc10aa6a2fa4f3909e7a78bdf5db199d6"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "49e4d76d003171f9561e6dc2edaf1d05c3e311a3f108d044c4aaabd73f9a5a5c"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "2172a09aa2ef6f4026f45760efbc23445ed3bf1c2a32a1b41bc3a02523e19837"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a89d7580a6c6df746c36f84a9e0bd17b2cf7b48c"
+git-tree-sha1 = "65228b52b414e3781c385132431ae627e4da9102"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "376adb8ef53477beedca667813668af403db4ed2b8b94857a0d694faeffb0deb"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "5203b68aa3b471c586e163d4617e2d9c7fbe9b4f061e17c49039ea0aaee8bc49"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0686eac774371c404e495be823d316269fdd4d16"
+git-tree-sha1 = "a4b0acd9b341bcb53fcf208c608014318af761d8"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "54af88a26c4cd44660dd36a47439f3b9b950569b0ea90aec2e73c7c6383bba49"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "99d4de52753b670600546c9d7bd03a0750d66e14fc46666e79a72185f17d1df0"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "93ced7eebde354ed0e4fd19f003159daac9fadf2"
+git-tree-sha1 = "7a2901c13e9bd376c2b21d6caa01eab3d5741e38"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "c62609fb2d7cdc7fa81c375c34a5a01fd1105c42a1f7b6b8f60a578336ca1f4f"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "5126da1aace395565f7e0de9de1a5247ac5456eea1dde935eb8656f93b7b3f91"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "108ba80f1e877f707e4a2caa12c7e18892a4394d"
+git-tree-sha1 = "7500b3449240976750f6656155d5857cbc066b5a"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "0a2db15017b90f8b21b485860f3a2d80765eabe6ee419e2e888eec396606a713"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "c862e7ed6258003e242e0ee4062b8d973f3dd23c6d5a603a05a2c00f899b337d"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7de8251d8f6257d2c8053d6180efbf46991a2b31"
+git-tree-sha1 = "5a9dc6dea9071715c647edd26b3a7cc0283080c6"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "1e16e30bde04062710690d223a7c5703477d6e699bdb8126d3bb6af984a67ef9"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "642ed2a3fd39d0f653a587f1a222511bbd36fe79cdd63bca3695b6217b750311"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "38b10a9f7260c89e40c393f3d1e578f126bfda9b"
+git-tree-sha1 = "4ccdf2399800aee227269bd08488d8e9d46b7314"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "19bfa34d989741da6a63322a3183144fef5e690729a3326f4fc33a3c22b23f10"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "4a1b840ca5eb3c121d51405a2d1d3b5809ccfb575c3aa4fc20b9d81bac8010d0"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1e4e7c1f4de864af1e6672924a8b824a516f1988"
+git-tree-sha1 = "7e065cf9816247f780b4f52b8380cb946a0e9a3f"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "85e4c2d29d620c941c09fcfc5fd550c9ee320a58071fd7b0261c8181da8588fc"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "3c8f5d41c3f799c38748a8704741587813906077f8eafa4e8ff92ba7f7365c7f"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[SpFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd77503d40c59eff273a59a5cf00e684637327c1"
+git-tree-sha1 = "0af5a0cd57b4050376e1f5d19be517c508b3f3df"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SpFFT.download]]
-    sha256 = "5569e0cb2cde7a8a5c9dcc3ce359431a78249cc0c1fa4ff1e6b3b7eda8aabc5e"
-    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.0.6+0/SpFFT.v1.0.6.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "80e0a7a212c7f0a938d081d58824a4f2e3084a48c0e2ac87f380d44a31e2254b"
+    url = "https://github.com/JuliaBinaryWrappers/SpFFT_jll.jl/releases/download/SpFFT-v1.1.0+0/SpFFT.v1.1.0.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
