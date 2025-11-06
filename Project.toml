@@ -1,6 +1,6 @@
 name = "SpFFT_jll"
 uuid = "8be71ea8-ca6b-526f-84e8-fb2862ef466b"
-version = "1.1.0+0"
+version = "1.1.1+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
@@ -18,12 +18,13 @@ LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
 MicrosoftMPI_jll = "9237b28f-5490-5468-be7b-bb81f5f5e6cf"
 
 [compat]
-JLLWrappers = "1.4.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
+MPICH_jll = "4.3.0 - 4"
 MPIPreferences = "0.1"
-LazyArtifacts = "1"
-Libdl = "1"
+LazyArtifacts = "< 0.0.1, 1"
+Libdl = "< 0.0.1, 1"
 MPItrampoline_jll = "5.2.1"
-TOML = "1"
-Artifacts = "1"
+TOML = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
 OpenMPI_jll = "4.1.6, 5"
